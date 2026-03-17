@@ -1,0 +1,2 @@
+# ruidd
+manager
